@@ -1,8 +1,7 @@
 1. Install pycharm (if you can do python3.8)
-2. Once downloaded go run the program and open a new project (it's easier to copy and paste the code) 
-3. when u open the project, copy and paste everything 
-4. create a new text document called "codes"(case sensititve) and add it to the same folder where main.py is located at. 
-5. If u have prexisting code you want to put in then now is the time to add in. each line should be it's own code. 
+2. Once downloaded go run the program and it should ask you to open a new project or an existing one. Click the "open the existing one" and click the lays folder
+3. when u open the project, copy and paste everything  
+5. If u have prexisting code you want to put in then now is the time to add in. go to the codes.txt and add code each line should be it's own code. 
 6. Go to the import on the 3rd line and click the ... hover your mouse over the "import pyautogui" and click alt+shift+enter to install it. If it doesn't work go to the top right and click the magnafying glass button and type pyautogui, then click it. somewhere it should say install pyautogui 
 7. open up mynintendo and go to the page where you can redeem the 16 character code. Make sure it's full screen
 8. Adjust the HowMany variable to how many codes u want to get and redeem to your account (your account will include the new codes plus the codes you added to codes.txt) 
