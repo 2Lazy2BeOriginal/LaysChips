@@ -9,5 +9,6 @@
 9. Adjust the HowMany variable to how many codes u want to get and redeem to your account (your account will include the new codes plus the codes you added to codes.txt) 
 10. then click on the play button on top right and QUICKLY MINIMIZE THE PROGRAM and the bot should go open the lays chips website to get codes. after it's done the website will close and then input the code for you. REMEMBER TO NOT TOUCH THE MOUSE WHEN THIS HAPPENS AND TO HAVE THE WEB PAGE READY
 11. If the loop doesn't work then run the program again. (my program uses images to know where to click). While the loop is running. DON'T TOUCH ANYTHING
+12. After the program is done, you have to manually delete all the code in the code.txt
+if you set GetCode to True and EnterCode to False then the codes will appear at the console.log at the bottom screen. Click the Main.py tab to see it. Copy and paste the codes to a random text document to give to someone or save it 
 
-if you set GetCode to True and EnterCode to False then the codes will appear at the console.log at the bottom screen. Click the Main.py tab to see it.
