@@ -1,7 +1,7 @@
 1. Install pycharm (if you can do python3.8)
 2. Once downloaded go run the program and it should ask you to open a new project or an existing one. Click the "open the existing one" and click the lays folder
 3. when u open the project, check to see if the play button is green or not. If it's grey then click configuration on top right, (or python icon) and click edit configuartion. If the script path is empty then click the folder button and find the main.py the file should be in the LAYS folder. This makes it so python know which folder to run
-4. While your in the config menu, check to see if there is an interpreter, if there is none then go to the drop menu and select python3.8 If it exists click default. if it doesn't then click the 1st result  
+4. While your in the config menu, check to see if there is an interpreter, if there is none then go to the drop menu and select python3.8 If it exists click Lays. if it doesn't then click the 1st result  
 5. If u have prexisting code you want to put in then now is the time to add in. go to the code.txt and add code each line should be it's own code. 
 6. Go to the import on the 3rd line and click the ... hover your mouse over the "import pyautogui" and click alt+shift+enter to install it. If it doesn't work go to the top right and click the magnafying glass button and type pyautogui, then click it. somewhere it should say install pyautogui 
 7. open up mynintendo and go to the page where you can redeem the 16 character code. Make sure it's full screen
