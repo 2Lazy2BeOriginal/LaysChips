@@ -1,6 +1,6 @@
 YOU WON'T BE ABLE To USE YOUR COMPUTER WHILE THIS PROGRAM IS RUNNING. THIS IS BECAUSE THIS PROGRAM WILL HIJACK YOUR MOUSE AND KEYBOARD JUST TO ENTER THE CODE
 1. Install pycharm (if you can do python3.8) Download the GetCode zip file and extract it. Move the folder to desktop or somewhere else
-2. Once downloaded go run the program and it should ask you to open a new project or an existing one. Click the "open the existing one" and click the lays folder
+2. Once downloaded go run the program. Open the file by clicking file in the top left, click open, then find the folder you extracted
 3. when u open the project, you should see a add configuration on the top right, click it and it should ask you to create a new one. Click it and scroll down until you see python.
 4. after that you should see a menu of the project details. set the script path to wherever main.py is. It's in the GetCode folder. Next select an interperter, when u first start it will say <no interpreter>. click the drop menu and select python3.8 or python3.9 
 5. If u have prexisting code you want to put in then now is the time to add in. go to the code.txt and add code each line should be it's own code. 
