@@ -16,8 +16,8 @@ YOU WON'T BE ABLE To USE YOUR COMPUTER WHILE THIS PROGRAM IS RUNNING. THIS IS BE
 11. If the loop doesn't work then run the program again. (my program uses images to know where to click). While the loop is running. DON'T TOUCH ANYTHING
 12. After the program is done, you have to manually delete all the code in the code.txt
   
-if you set GetCode to True the codes will appear at the console.log at the bottom screen. Click the Main.py tab to see it. Copy and paste the codes to a random text document to give to someone or save it 
-  
-if you encounter into an error where they can not find codes.txt or names.JSON then u must show the directory. so text = open('codes.txt') becomes text = open(r'C:\path\to\your\code.txt') and same with name except it will be names = json.loads(open(r'C:\path\to\your\names.json').read()) *hint you can copy and paste the C:/Users.../main.py and paste it and replace main.py with whatever text doc u need. remember to replace every / with \ 
+if you set GetCode to True the codes will appear at the console.log at the bottom screen just move the website window to the right and the codes should start appearing. Click the Main.py tab to see it. Copy and paste the codes to a random text document to give to someone or save it 
 
+  if you set EnterCode to false then you don't have to minimize tab since getting codes does not hijack the mouse. If it's set to true then you have 2 seconds to minimize the tab remember the mynintendo website must be full screen and scrolled to the top
+  
   if you have questions dm 2Lazy2BeOriginal#4095
